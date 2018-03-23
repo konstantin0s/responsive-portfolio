@@ -106,7 +106,7 @@ input, select {
   text-decoration: none;
 }
 body {
-  background-color: #f3f3f3;
+  /* background-color: #f3f3f3; */
 }
 
 header {
@@ -185,4 +185,61 @@ header .header-cases {
   font-weight:  100;
   font-style: italic;
   text-shadow: 2px 2px #111;
+}
+
+.index-links div {
+  margin: 16px 16px 0;
+  width: calc(100% - 32px);
+  height: 100px;
+  background-color: #f2f2f2;
+}
+
+.index-links div  h3 {
+  font-size: 28px;
+  font-family: Verdana;
+  color: #111;
+  font-weight: 300;
+  text-align: center;
+  line-height: 100px;
+}
+
+/* footer*/
+footer {
+  width: calc(100% - 80px);
+  padding: 35px 35px;
+  margin-top: 20px;
+  background-color: #111;
+  overflow: hidden;
+}
+
+footer ul {
+width: fit-content;
+float: left;
+padding-left: 20px;
+}
+
+footer ul li {
+  display: block;
+  list-style: none;
+}
+
+footer ul li a {
+  font-family: Verdana;
+  font-size: 19px;
+  color: #fff;
+  line-height: 25px;
+}
+
+.footer-links-cases {
+  display: none;
+}
+
+.footer-sm {
+  width: 60px;
+  float: right;
+}
+
+.footer-sm img {
+  width: 100%;
+ margin-bottom: 10px;
 }
