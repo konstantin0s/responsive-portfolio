@@ -158,5 +158,31 @@ header .header-cases {
   background-size: cover;
   width: 100%;
   height: calc(100vh - 100px);
+ display: table;
+}
 
+.vertical-center {
+  display: table-cell;
+   vertical-align: middle;
+}
+
+.index-banner h2 {
+  font-size: 50px;
+  font-family: Verdana;
+  color: #fff;
+  text-align: center;
+  font-weight:  900;
+  text-shadow: 2px 2px #111;
+    line-height: 70px;
+}
+
+.index-banner h1 {
+  font-size: 28px;
+  font-family: Verdana;
+  color: #fff;
+  text-align: center;
+  line-height: 40px;
+  font-weight:  100;
+  font-style: italic;
+  text-shadow: 2px 2px #111;
 }
