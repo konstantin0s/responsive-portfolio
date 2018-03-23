@@ -109,10 +109,17 @@ body {
   /* background-color: #f3f3f3; */
 }
 
+main {
+  padding-top: 100px;
+}
 header {
   background-color: #fff;
   width: 100%;
   height: 100px;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
 }
 
 header .header-brand {
@@ -278,6 +285,13 @@ width: calc(50% - 20px) !important;
   }
 }
 
+/*cases */
+.cases-links div {
+  width: 240px;
+  height: 240px;
+  background-color: #e3e3e3;
+  float: left;
+}
 
 
 
