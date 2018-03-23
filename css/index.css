@@ -286,14 +286,205 @@ width: calc(50% - 20px) !important;
 }
 
 /*cases */
-.cases-links div {
-  width: 240px;
-  height: 240px;
+.cases-links {
+overflow: hidden;
+margin-bottom: 20px;
+
+}
+
+.cases-links h2 {
+font-family: Verdana;
+font-size: 28px;
+font-weight: 600;
+color: #111;
+text-transform: uppercase;
+
+}
+
+.cases-links .cases-link {
+  width: 230px;
+  height: 230px;
+  margin: 20px 10px 0;
   background-color: #e3e3e3;
   float: left;
 }
 
+.cases-links .cases-link{
+  width: 230px;
+  height: 230px;
+   margin: 20px 10px 0;
+   float:left;
+   background-image: url('../img/singer.png');
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
 
+}
+.cases-links .cases-link1 {
+  width: 230px;
+  height: 230px;
+   margin: 20px 10px 0;
+   float:left;
+   background-image: url('../img/codaisseur.png');
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+ }
+
+ .cases-links .cases-link2 {
+   width: 230px;
+   height: 230px;
+    margin: 20px 10px 0;
+    float:left;
+    background-image: url('../img/movie.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+
+  .cases-links .cases-link3 {
+    width: 230px;
+    height: 230px;
+     margin: 20px 10px 0;
+     float:left;
+     background-image: url('../img/contact.png');
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: cover;
+   }
+
+   .cases-links .cases-link4 {
+     width: 230px;
+     height: 230px;
+      margin: 20px 10px 0;
+      float:left;
+      background-image: url('../img/youtube.png');
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+    }
+
+    .cases-links .cases-link5 {
+      width: 230px;
+      height: 230px;
+       margin: 20px 10px 0;
+       float:left;
+       background-image: url('../img/exam.png');
+       background-repeat: no-repeat;
+       background-position: center;
+       background-size: cover;
+     }
+
+     .cases-links .cases-link6 {
+       width: 230px;
+       height: 230px;
+        margin: 20px 10px 0;
+        float:left;
+        background-image: url('../img/portfolio.png');
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+      }
+
+      .cases-links .cases-link7 {
+        width: 230px;
+        height: 230px;
+         margin: 20px 10px 0;
+         float:left;
+         background-image: url('../img/bookmark.png');
+         background-repeat: no-repeat;
+         background-position: center;
+         background-size: cover;
+       }
+
+
+.cases-links .cases-link p {
+  padding-top: 45%;
+font-family: Verdana;
+font-size: 19px;
+font-weight: 600;
+color: #111;
+text-align: center;
+text-transform: uppercase;
+ position: relative;
+}
+
+.cases-links .cases-link1 p {
+  padding-top: 45%;
+font-family: Verdana;
+font-size: 19px;
+font-weight: 600;
+color: #111;
+text-align: center;
+text-transform: uppercase;
+ position: relative;
+}
+
+.cases-links .cases-link2 p {
+  padding-top: 75%;
+font-family: Verdana;
+font-size: 19px;
+font-weight: 600;
+color: #111;
+text-align: center;
+text-transform: uppercase;
+ position: relative;
+}
+
+.cases-links .cases-link3 p {
+  padding-top: 45%;
+font-family: Verdana;
+font-size: 19px;
+font-weight: 600;
+color: #111;
+text-align: center;
+text-transform: uppercase;
+ position: relative;
+}
+
+.cases-links .cases-link4 p {
+  padding-top: 45%;
+font-family: Verdana;
+font-size: 19px;
+font-weight: 600;
+color: #111;
+text-align: center;
+text-transform: uppercase;
+ position: relative;
+}
+
+.cases-links .cases-link5 p {
+  padding-top: 45%;
+font-family: Verdana;
+font-size: 19px;
+font-weight: 600;
+color: #111;
+text-align: center;
+text-transform: uppercase;
+ position: relative;
+}
+
+.cases-links .cases-link6 p {
+  padding-top: 45%;
+font-family: Verdana;
+font-size: 19px;
+font-weight: 600;
+color: #111;
+text-align: center;
+text-transform: uppercase;
+ position: relative;
+}
+
+.cases-links .cases-link7 p {
+  padding-top: 45%;
+font-family: Verdana;
+font-size: 19px;
+font-weight: 600;
+color: #111;
+text-align: center;
+text-transform: uppercase;
+ position: relative;
+}
 
 /* footer*/
 footer {
