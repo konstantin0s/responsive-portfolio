@@ -397,6 +397,50 @@ text-transform: uppercase;
          background-size: cover;
        }
 
+       .cases-links .cases-link8 {
+         width: 230px;
+         height: 230px;
+          margin: 20px 10px 0;
+          float:left;
+          background-image: url('../img/todo.png');
+          background-repeat: no-repeat;
+          background-position: center;
+          background-size: cover;
+        }
+
+        .cases-links .cases-link9 {
+          width: 230px;
+          height: 230px;
+           margin: 20px 10px 0;
+           float:left;
+           background-image: url('../img/draw.png');
+           background-repeat: no-repeat;
+           background-position: center;
+           background-size: cover;
+         }
+
+         .cases-links .cases-link10 {
+           width: 230px;
+           height: 230px;
+            margin: 20px 10px 0;
+            float:left;
+            background-image: url('../img/ecommerce.png');
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+          }
+
+          .cases-links .cases-link11 {
+            width: 230px;
+            height: 230px;
+             margin: 20px 10px 0;
+             float:left;
+             background-image: url('../img/weight.png');
+             background-repeat: no-repeat;
+             background-position: center;
+             background-size: cover;
+           }
+
 
 .cases-links .cases-link p {
   padding-top: 45%;
@@ -476,6 +520,50 @@ text-transform: uppercase;
 }
 
 .cases-links .cases-link7 p {
+  padding-top: 45%;
+font-family: Verdana;
+font-size: 19px;
+font-weight: 600;
+color: #111;
+text-align: center;
+text-transform: uppercase;
+ position: relative;
+}
+
+.cases-links .cases-link8 p {
+  padding-top: 45%;
+font-family: Verdana;
+font-size: 19px;
+font-weight: 600;
+color: #111;
+text-align: center;
+text-transform: uppercase;
+ position: relative;
+}
+
+.cases-links .cases-link9 p {
+  padding-top: 45%;
+font-family: Verdana;
+font-size: 19px;
+font-weight: 600;
+color: #111;
+text-align: center;
+text-transform: uppercase;
+ position: relative;
+}
+
+.cases-links .cases-link10 p {
+  padding-top: 45%;
+font-family: Verdana;
+font-size: 19px;
+font-weight: 600;
+color: #111;
+text-align: center;
+text-transform: uppercase;
+ position: relative;
+}
+
+.cases-links .cases-link11 p {
   padding-top: 45%;
 font-family: Verdana;
 font-size: 19px;
